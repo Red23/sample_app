@@ -1,0 +1,1 @@
+[31mCould not find gem 'rpsec-rails (>= 2.4.2, runtime)' in any of the gem sources listed in your Gemfile.[0m
